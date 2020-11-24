@@ -1,0 +1,63 @@
+
+*
+{
+	margin:0;
+}
+body
+{
+		background:goldenrod;
+}
+#container
+{
+	background:salmon;
+	height:100%;
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+}
+#Header
+{
+	background:skyblue;
+	height:20%;
+}
+#logo
+{
+	background:brown;
+	width:30%;
+	height:100%;
+	float :left;
+}
+#headercontent
+{
+	background:green;
+	width:70%;
+	height:100%;
+	float:right;
+}
+#Menu
+{
+	background:gray;
+	height:10%;
+}
+ul
+{
+	text-transform:uppercase;
+	text-decoration:none;
+}
+li
+{
+	display:inline-block;
+	margin:30;
+}
+#Content
+{
+	background:white;
+	height:60%;
+}
+#Footer
+{
+	background:skyblue;
+	height:10%;
+}
+
+
